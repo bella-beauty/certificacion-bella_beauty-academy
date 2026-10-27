@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "question": "Una clienta con piel muy grasa consulta por qué el sombreado de henna en su piel solo le duró 7 días, mientras que a su amiga con piel seca le duró más de dos semanas. Según la fisiología del manto hidrolipídico explicada en la guía, ¿cuál es la razón técnica de esta diferencia?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "El vello de las pieles grasas no absorbe la molécula de Lawsone por falta de hidratación y exceso de queratina dura.",
+        "isCorrect": false,
+        "feedback": "La molécula activa Lawsone se adhiere perfectamente a la queratina del vello independientemente del tipo de piel, siendo la retención sobre la piel la que varía por la grasa."
+      },
+      {
+        "letter": "B",
+        "text": "La piel grasa metaboliza y elimina el pigmento con mayor rapidez debido a la alta producción de sebo y una acelerada descamación epitelial.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El exceso de secreción sebácea y la rápida renovación de la capa córnea en biotipos grasos provocan un desprendimiento acelerado de las células epidérmicas teñidas."
+      },
+      {
+        "letter": "C",
+        "text": "La preparación de la henna en piel grasa exige un tiempo de exposición reducido a la mitad para evitar la saturación folicular.",
+        "isCorrect": false,
+        "feedback": "Reducir el tiempo de exposición en piel grasa disminuye aún más la pigmentación; al contrario, este biotipo suele requerir tiempos de fijación completos y una limpieza profunda previa."
+      },
+      {
+        "letter": "D",
+        "text": "La henna utilizada en pieles grasas requiere peróxido de 20 volúmenes para lograr penetrar hasta la capa dérmica.",
+        "isCorrect": false,
+        "feedback": "La henna es un tinturado superficial no invasivo que actúa únicamente en la epidermis y no utiliza peróxidos de alto volumen para penetrar la dermis."
+      }
+    ],
+    "category": "FISIOLOGÍA Y BIOTIPOS CUTÁNEOS",
+    "reference": "Guía Maestra · Cap. 2.4 (Retención y Manto Lipídico)"
+  },
+  {
+    "id": 2,
+    "question": "Una clienta solicita epilación con cera y diseño de cejas. En la consulta previa indica que finalizó un tratamiento dermatológico con isotretinoína oral (Roacután) hace dos meses. ¿Cuál es la conducta técnica obligatoria que debe asumir la especialista?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Contraindicar de forma absoluta el uso de cera y realizar la epilación únicamente con hilo o pinza para prevenir un desprendimiento epidérmico severo.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta La isotretinoína provoca una atrofia sebácea y adelgazamiento extremo de la barrera cutánea que persiste hasta 6 meses después de suspender el fármaco, haciendo que el tirón de la cera levante la piel."
+      },
+      {
+        "letter": "B",
+        "text": "Continuar con la cera de forma habitual reduciendo el tiempo de tracción y aplicando gel de aloe vera inmediatamente después.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Aplicar gel calmante posterior no evita el daño mecánico e inmediato de desprendimiento de la capa epidérmica hiper-sensibilizada."
+      },
+      {
+        "letter": "C",
+        "text": "Realizar la epilación con cera elástica de baja temperatura previa aplicación de talco para proteger la barrera cutánea.",
+        "isCorrect": false,
+        "feedback": "Aunque el talco reduce la adherencia a la piel, el uso de cera en cualquiera de sus variantes sigue estando estrictamente prohibido durante los 6 meses posteriores al uso de isotretinoína."
+      },
+      {
+        "letter": "D",
+        "text": "Aplicar una capa gruesa de vaselina protectora en la zona y utilizar cera tibia en tiras a menor temperatura.",
+        "isCorrect": false,
+        "feedback": "La vaselina no previene la tracción mecánica sobre una epidermis frágil, y la cera tibia en tiras genera una adherencia traumática contraindicada en este biotipo."
+      }
+    ],
+    "category": "CONTRAINDICACIONES CLÍNICAS",
+    "reference": "Guía Maestra · Cap. 5.4 (Tratamientos Médicos e Isotretinoína)"
+  },
+  {
+    "id": 3,
+    "question": "Tras la neutralización del laminado de cejas, se procede a aplicar un tinte específico. Si el tiempo de exposición estándar del tinte sobre vello virgen es de 8 minutos, ¿qué tiempo de exposición se debe aplicar y por qué?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "De 3 a 4 minutos, aplicando la Regla del 50% debido a la hiper-porosidad de la cutícula provocada por el proceso químico del laminado.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta La acción reductora y neutralizante del laminado deja las escamas de la cutícula abiertas, lo que acelera el procesamiento del tinte y exige reducir el tiempo a la mitad para evitar oscurecer excesivamente."
+      },
+      {
+        "letter": "B",
+        "text": "1 minuto únicamente en la cola de la ceja, retirando el producto de forma inmediata con champú micelar.",
+        "isCorrect": false,
+        "feedback": "Un minuto resulta insuficiente para fijar de manera uniforme el pigmento en el cuerpo y cola, además de requerir un tiempo proporcional en toda la ceja."
+      },
+      {
+        "letter": "C",
+        "text": "De 12 a 15 minutos, prolongando el tiempo debido a que los productos neutralizantes crean una barrera protectora impermeable al tinte.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Las lociones del laminado no sellan ni impermeabilizan la fibra; por el contrario, abren la estructura haciéndola absorber el color mucho más rápido."
+      },
+      {
+        "letter": "D",
+        "text": "8 minutos exactos, respetando la indicación del fabricante para asegurar que los puentes disulfuro se reordenen de forma permanente.",
+        "isCorrect": false,
+        "feedback": "Mantener el tiempo estándar sobre vello hiper-poroso provoca una absorción excesiva de pigmento, dejando la ceja manchada o totalmente negra."
+      }
+    ],
+    "category": "QUÍMICA Y LAMINADO DE CEJAS",
+    "reference": "Guía Maestra · Cap. 16.2 (Regla del 50% post-laminado)"
+  },
+  {
+    "id": 4,
+    "question": "Al realizar el mapping a una clienta que presenta una ceja 3 mm más alta que la otra debido a hipertonía muscular, ¿cómo se aplica correctamente la técnica del Punto Medio Compensatorio para alinear la altura sin despoblar la ceja?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Se traza la línea horizontal de nivelación 1,5 mm por debajo del borde de la ceja alta y 1,5 mm por encima del borde de la ceja baja.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta Dividir la brecha de asimetría al 50% permite rellenar con color la zona inferior de la ceja alta y epilar estratégicamente la ceja baja, logrando un equilibrio visual armónico."
+      },
+      {
+        "letter": "B",
+        "text": "Se diseñan ambas cejas de forma independiente siguiendo la tracción de cada músculo frontal para respetar la expresión gestual.",
+        "isCorrect": false,
+        "feedback": "Ignorar la nivelación horizontal no resuelve la asimetría visual y contradice el objetivo de simetría compensatoria del mapping profesional."
+      },
+      {
+        "letter": "C",
+        "text": "Se rebaja la ceja alta 3 mm desde su borde superior para alinearla al nivel exacto del arco de la ceja baja.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Rebajar 3 mm directamente en una sola ceja destruye su grosor natural y la deja desproporcionada respecto a la otra."
+      },
+      {
+        "letter": "D",
+        "text": "Se eleva la ceja baja 3 mm rellenando con henna por encima de su cuerpo natural sin modificar la posición de la ceja alta.",
+        "isCorrect": false,
+        "feedback": "Subir todo el tramo sobre la ceja baja dibuja una ceja completamente fuera del marco óseo, creando un aspecto artificial."
+      }
+    ],
+    "category": "ARQUITECTURA FACIAL Y MAPPING",
+    "reference": "Guía Maestra · Cap. 7 (Punto Medio Compensatorio en Asimetrías)"
+  },
+  {
+    "id": 5,
+    "question": "Durante un laminado, el vello del cuerpo y cola de la ceja de una clienta quedó retorcido en forma de 'Z' y quebradizo (efecto sobreprocesado). ¿Cuál es el protocolo de rescate químico e hídrico inmediato en cabina?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lavar la zona con jabón desengrasante de alta alcalinidad y aplicar tinte híbrido oscuro para disimular la textura.",
+        "isCorrect": false,
+        "feedback": "Los productos alcalinos abren aún más las cutículas dañadas, agravando la deshidratación y la rotura del vello."
+      },
+      {
+        "letter": "B",
+        "text": "Saturar el vello con peróxido de hidrógeno de 10 volúmenes para forzar el cierre inmediato de la cutícula.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta El peróxido de hidrógeno es un agente oxidante que genera mayor resequedad en una fibra capilar previamente desestructurada."
+      },
+      {
+        "letter": "C",
+        "text": "Epilar con cera caliente los vellos afectados y teñir la piel subyacente con una capa gruesa de henna.",
+        "isCorrect": false,
+        "feedback": "Epilar vellos sobreprocesados elimina la estructura capilar en lugar de restaurarla, además de someter la piel sensibilizada a una agresión innecesaria."
+      },
+      {
+        "letter": "D",
+        "text": "Realizar una re-alineación inversa con la Loción Onduladora (Paso 1) por 30 a 60 segundos, neutralizar por 60 segundos y aplicar tratamiento de reconstrucción proteica con film osmótico.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta La aplicación breve del ondulador ablanda el quiebre para corregir la alineación en sentido contrario, fijándolo con el neutralizante y sellando la fibra con nutrición intensiva."
+      }
+    ],
+    "category": "RESCATE Y PROTOCOLO DE EMERGENCIA",
+    "reference": "Guía Maestra · Cap. 17.2 (Rescate de Vello Sobreprocesado)"
+  },
+  {
+    "id": 6,
+    "question": "¿Por qué está contraindicada la aplicación de henna comercial tradicional con elevado contenido de Parapfenilendiamina (PPD) inmediatamente después de un laminado de cejas?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Porque la henna impide la absorción de los aceites nutritivos en el proceso de nutrición posterior.",
+        "isCorrect": false,
+        "feedback": "El problema principal no es la interferencia con los aceites, sino el potencial alergénico e irritante de los aditivos químicos en tejidos sensibles."
+      },
+      {
+        "letter": "B",
+        "text": "Porque los pigmentos de la henna anulan la reacción del Paso 2 provocando que el vello vuelva inmediatamente a su dirección rizada original.",
+        "isCorrect": false,
+        "feedback": "La henna no revierte la recombinación de los puentes disulfuro fijados por el neutralizante; el riesgo radica en la agresión química a la piel y el vello."
+      },
+      {
+        "letter": "C",
+        "text": "Porque la pasta de henna se degrada y pierde su capacidad colorante al entrar en contacto con vellos que poseen un pH neutro.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta La molécula Lawsone tiñe la queratina sin importar variaciones leves de pH, siendo la sensibilidad cutánea y cuticular la verdadera limitante."
+      },
+      {
+        "letter": "D",
+        "text": "Porque la interacción de los agentes reductores alcalinos con el PPD sobre la cutícula expuesta genera un alto riesgo de dermatitis de contacto y resequedad extrema en la fibra.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta Tras la alteración química del laminado, los componentes sintéticos de fijación rápida en ciertas hennas penetran agresivamente la piel y la corteza abierta, provocando reacciones alérgicas o daño capilar."
+      }
+    ],
+    "category": "COMPATIBILIDAD QUÍMICA",
+    "reference": "Guía Maestra · Cap. 16.3 (Contraindicaciones Químicas)"
+  },
+  {
+    "id": 7,
+    "question": "¿En qué contenedor de bioseguridad deben depositarse de forma inmediata las navajas o perfiladores metálicos desechables al finalizar la epilación?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "En el contenedor rígido de bioseguridad (Guardián Rojo) destinado a elementos cortopunzantes.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! Todo instrumental con filo o capacidad de punción debe desecharse en recipientes rígidos e imperforables marcados con riesgo biológico para evitar pinchazos accidentales."
+      },
+      {
+        "letter": "B",
+        "text": "En la bolsa negra o gris de la estación de trabajo destinada a basura común inerte.",
+        "isCorrect": false,
+        "feedback": "Deschar instrumental filoso en bolsas de basura común viola las normas de bioseguridad e incrementa el riesgo de accidentes ocupacionales."
+      },
+      {
+        "letter": "C",
+        "text": "En la bolsa roja flexible de bioseguridad para residuos biopatológicos y gasas contaminadas.",
+        "isCorrect": false,
+        "feedback": "Las bolsas de polietileno pueden ser perforadas fácilmente por objetos afilados, representando un grave riesgo biológico para el operador."
+      },
+      {
+        "letter": "D",
+        "text": "En un vaso de cristal sumergido en alcohol al 70% para su posterior desinfección y reutilización.",
+        "isCorrect": false,
+        "feedback": "Las hojas de afeitar y navajas desechables son estrictamente de un solo uso y nunca deben reutilizarse ni desinfectarse entre clientas."
+      }
+    ],
+    "category": "BIOSEGURIDAD Y SANIDAD",
+    "reference": "Guía Maestra · Cap. 4.4 (Segregación de Instrumental Cortopunzante)"
+  },
+  {
+    "id": 8,
+    "question": "Al aplicar la regla de la proporción áurea (1,618) en la arquitectura de la ceja, ¿qué porcentaje de la longitud total debe corresponder al cuerpo (P1 a P2) respecto a la cola (P2 a P3)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "El cuerpo ocupa el 40% del trazado y la cola el 60%, alargando el arco en dirección a la sien.",
+        "isCorrect": false,
+        "feedback": "Asignar un 60% a la cola alarga en exceso el final de la ceja, rompiendo la armonía geométrica del visagismo facial."
+      },
+      {
+        "letter": "B",
+        "text": "El cuerpo representa el 50% de la ceja y la cola el 50% sobrante, dividiendo el trazo en dimensiones iguales.",
+        "isCorrect": false,
+        "feedback": "Una ceja con 50% de cola desplaza el arco hacia el centro, creando un efecto de mirada triste o desproporcionada."
+      },
+      {
+        "letter": "C",
+        "text": "El cuerpo abarca el 75% de la extensión total dejando un 25% para el remate de la cola.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Una cola demasiado corta (25%) genera una ceja incompleta y gruesa que acorta visualmente la zona periocular."
+      },
+      {
+        "letter": "D",
+        "text": "El cuerpo representa el 60% de la longitud total (3 partes) y la cola el 40% restante (2 partes).",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta La proporción armónica 3:2 fija el centro de gravedad visual en la elevación del arco, evitando que la cola sea demasiado larga y deprima la mirada."
+      }
+    ],
+    "category": "GEOMETRÍA Y PROPORCIÓN ÁUREA",
+    "reference": "Guía Maestra · Cap. 6.2 (Proporción Áurea Phi 1.618 en Cabina)"
+  },
+  {
+    "id": 9,
+    "question": "Tras batir la henna en polvo con su activador hasta lograr una textura cremosa tipo yogur, ¿cuál es el paso técnico previo a la aplicación en la piel y cuál es su finalidad?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Incorporar 5 gotas adicionales de peróxido de 10 volúmenes para acelerar el secado sobre la piel.",
+        "isCorrect": false,
+        "feedback": "Adicionar peróxido altera la naturaleza de la henna profesional y puede causar irritación o virajes no deseados en el color."
+      },
+      {
+        "letter": "B",
+        "text": "Aplicar de inmediato sobre la ceja para aprovechar la acción de los exfoliantes activos antes de que se evaporen.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Aplicar la henna recién batida sin reposo provoca una fijación deficiente o parches descoloridos por falta de activación de la materia prima."
+      },
+      {
+        "letter": "C",
+        "text": "Dejar reposar la mezcla durante 3 a 5 minutos para permitir la correcta maceración y oxidación inicial del pigmento.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta El tiempo de reposo en el contenedor libera la molécula de Lawsone y homogeniza la pasta para garantizar que pigmenta de forma pareja sin manchas."
+      },
+      {
+        "letter": "D",
+        "text": "Someter la mezcla a calor mediante la lámpara de trabajo durante 2 minutos para esterilizar los pigmentos minerales.",
+        "isCorrect": false,
+        "feedback": "El calor directo degrada la mezcla y altera la consistencia de la pasta reduciendo su adherencia en el tejido cutáneo."
+      }
+    ],
+    "category": "COLORIMETRÍA Y QUÍMICA DE HENNA",
+    "reference": "Guía Maestra · Cap. 13 & 14 (Maceración y Oxidación de Lawsone)"
+  },
+  {
+    "id": 10,
+    "question": "Para lograr un acabado degradado natural (Ombré Brows) en un servicio con henna con tiempo total de exposición de 20 minutos, ¿cuál es el protocolo de retirada escalonada?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Retirar la henna de la cola a los 5 minutos, del cuerpo a los 10 minutos y mantener el inicio hasta los 20 minutos.",
+        "isCorrect": false,
+        "feedback": "Dejar más tiempo en la cabeza genera un inicio oscuro y marcado (efecto bloque), lo opuesto al degradado suave del Ombré."
+      },
+      {
+        "letter": "B",
+        "text": "Retirar el pigmento a los 5-8 minutos en la cabeza (inicio), a los 15 minutos en el cuerpo y a los 20 minutos en la cola.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! La retirada diferida limita la impregnación en el inicio para lograr un efecto traslúcido mientras intensifica la densidad en la cola."
+      },
+      {
+        "letter": "C",
+        "text": "Retirar toda la ceja de forma simultánea a los 20 minutos y frotar con algodón seco el inicio para aclararlo mecánicamente.",
+        "isCorrect": false,
+        "feedback": "Frotar la piel de forma brusca con un algodón seco irrita la capa córnea y no garantiza un degradado limpio ni controlado."
+      },
+      {
+        "letter": "D",
+        "text": "Retirar la mezcla a los 10 minutos en toda la ceja y aplicar removedor de henna diluido en la zona del arco.",
+        "isCorrect": false,
+        "feedback": "El removedor se usa para limpiar trazos fuera de marco, no para construir el degradado interno del diseño."
+      }
+    ],
+    "category": "TÉCNICAS AVANZADAS DE PIGMENTACIÓN",
+    "reference": "Guía Maestra · Cap. 14.2 (Tiempos Escalonados Ombré Brows)"
+  },
+  {
+    "id": 11,
+    "question": "¿En qué estrato de la estructura piel se fija temporalmente el pigmento orgánico de la henna para cejas?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "En las capas más superficiales de la epidermis (estrato córneo), desvaneciéndose progresivamente con el ciclo de queratinización.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta La henna deposita sus moléculas de color en las células queratinizadas de la capa córnea epidérmica, durando hasta que estas se descaman de forma natural."
+      },
+      {
+        "letter": "B",
+        "text": "En la dermis reticular, donde interactúa directamente con el bulbo piloso y la papila vascular.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Los tintes temporales no penetran la lámina basal hacia la dermis; la pigmentación dérmica requiere agujas como en el micropigmentado."
+      },
+      {
+        "letter": "C",
+        "text": "En el tejido adiposo de la hipodermis para fijar un efecto de sombra permanente de larga duración.",
+        "isCorrect": false,
+        "feedback": "La hipodermis es la capa profunda subcutánea; la henna es un procedimiento cosmético exclusivamente epidérmico e inofensivo."
+      },
+      {
+        "letter": "D",
+        "text": "En la papila folicular a través de absorción por poros dilatados sin romper la barrera cutánea.",
+        "isCorrect": false,
+        "feedback": "El pigmento no se absorbe en la papila folicular; su fijación se da por impregnación en la queratina del vello y de la epidermis."
+      }
+    ],
+    "category": "HISTOLOGÍA Y ESTRUCTURA CUTÁNEA",
+    "reference": "Guía Maestra · Cap. 2.1 (Estrato Córneo y Queratinización)"
+  },
+  {
+    "id": 12,
+    "question": "Para prevenir la contaminación cruzada al tomar productos cosméticos como vaselina o pasta de henna de su recipiente original, ¿cuál es el protocolo obligatorio?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utilizar guantes de nitrilo limpios para tomar el producto con la yema de los dedos directamente del recipiente comercial.",
+        "isCorrect": false,
+        "feedback": "Introducir guantes que han tocado el entorno o la piel de la clienta contamina el producto para usos posteriores con otros pacientes."
+      },
+      {
+        "letter": "B",
+        "text": "Limpiar el pincel de trabajo con una toallita húmeda antes de sumergirlo nuevamente dentro del frasco comercial.",
+        "isCorrect": false,
+        "feedback": "Respuesta incorrecta Las toallitas húmedas no esterilizan ni eliminan microorganismos del pincel, permitiendo la proliferación bacteriana en el contenedor."
+      },
+      {
+        "letter": "C",
+        "text": "Extraer la cantidad requerida utilizando una espátula limpia y descartable, evitando reintroducir elementos contaminados en el envase.",
+        "isCorrect": true,
+        "feedback": "Respuesta correcta Utilizar espátulas de un solo uso para extraer producto impide que bacterias o fluidos de la cabina entren en contacto con la reserva principal."
+      },
+      {
+        "letter": "D",
+        "text": "Aplicar alcohol isopropílico al 70% directamente en la superficie del producto para mantenerlo desinfectado tras cada servicio.",
+        "isCorrect": false,
+        "feedback": "Mezclar desinfectantes dentro del cosmético altera la fórmula, pierde efectividad técnica y puede irritar la piel de la clienta."
+      }
+    ],
+    "category": "ASEPSIA Y PREVENCIÓN CRUZADA",
+    "reference": "Guía Maestra · Cap. 4.1 (Asepsia y Manejo de Insumos Cosméticos)"
+  },
+  {
+    "id": 13,
+    "category": "BIOSEGURIDAD Y REPROCESAMIENTO",
+    "reference": "Guía Maestra · Cap. 4.3 (Tratamiento del Instrumental Metálico)",
+    "question": "¿Cuál es la secuencia clínica obligatoria para el reprocesamiento y esterilización de las pinzas metálicas de epilación tras atender a cada clienta?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sumergirlas directamente en alcohol al 70% durante 5 minutos y secar con toalla de papel.",
+        "isCorrect": false,
+        "feedback": "El alcohol al 70% no esteriliza ni destruye esporas bacterianas o virus sanguíneos; además, sumergir instrumental con restos orgánicos sin lavado previo inactiva el desinfectante."
+      },
+      {
+        "letter": "B",
+        "text": "1° Lavado con detergente enzimático, 2° Desinfección de Alto Nivel (DAN) y secado, y 3° Empaque hermético y esterilización en Autoclave.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El reprocesamiento hospitalario exige eliminar restos proteicos con detergente enzimático antes de desinfectar y someter el instrumental embolsado al calor húmedo bajo presión en autoclave para garantizar esterilidad absoluta."
+      },
+      {
+        "letter": "C",
+        "text": "Lavar con jabón de manos bajo agua corriente y rociar con spray antibacterial antes del siguiente servicio.",
+        "isCorrect": false,
+        "feedback": "El jabón común y los sprays antibacterianos de superficie no alcanzan el nivel biocida necesario para instrumental que entra en contacto con folículos pilosos y microlesiones cutáneas."
+      },
+      {
+        "letter": "D",
+        "text": "Introducir las pinzas en un esterilizador de cuarzo durante 30 segundos entre clienta y clienta.",
+        "isCorrect": false,
+        "feedback": "Los esterilizadores de esferas de cuarzo no están certificados por las normas de bioseguridad sanitaria internacional para esterilización de instrumental crítico en cabina."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "ARQUITECTURA FACIAL ANTI-AGE",
+    "reference": "Guía Maestra · Cap. 3.4 (Visagismo en Piel Madura / Efecto Lifting)",
+    "question": "Una clienta de 56 años presenta pérdida de colágeno en la región periocular y ptosis (caída) del párpado móvil. Según el visagismo científico de la guía, ¿qué directriz de diseño genera un efecto 'Lifting Óptico'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Elevar ligeramente el punto alto (Ápex / P2) y asegurar que la cola (P3) no descienda por debajo de la altura horizontal del inicio (P1), despejando el párpado.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! Mantener la cola a la altura o ligeramente por encima del inicio despeja visualmente el párpado fijo y móvil, abriendo la mirada y restando pesadez al tercio superior sin recurrir a cirugía."
+      },
+      {
+        "letter": "B",
+        "text": "Alargar la cola de la ceja hacia abajo siguiendo la curvatura del músculo orbicular para enmarcar la cuenca ocular.",
+        "isCorrect": false,
+        "feedback": "Prolongar la cola hacia abajo acentúa la caída del párpado y entristece la mirada (efecto de mirada cansada o envejecida)."
+      },
+      {
+        "letter": "C",
+        "text": "Diseñar una ceja completamente plana y horizontal para cortar la flacidez del rostro.",
+        "isCorrect": false,
+        "feedback": "Una ceja excesivamente horizontal en párpados con ptosis crea una sensación de pesadez sobre los ojos en lugar de elevar la mirada."
+      },
+      {
+        "letter": "D",
+        "text": "Depilar todo el arco natural y dibujar un pico pronunciado a 90 grados con henna negra.",
+        "isCorrect": false,
+        "feedback": "Los ángulos duros y artificiales endurecen las facciones y contrastan negativamente con la laxitud natural del tejido maduro."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "TÉCNICAS DE EPILACIÓN CON CERA",
+    "reference": "Guía Maestra · Cap. 11.2 (Biomecánica de Aplicación y Tensión de Piel)",
+    "question": "Al retirar una banda de cera elástica en la zona periocular, ¿cuál es la maniobra biomecánica correcta para evitar hematomas, flacidez o desprendimiento epidérmico?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tirar de la cera hacia arriba a un ángulo de 90 grados perpendicular al rostro para asegurar el arranque de raíz.",
+        "isCorrect": false,
+        "feedback": "Tirar hacia arriba a 90° tracciona la piel de forma violenta, provocando desprendimiento de la capa córnea, equimosis (moratones) y flacidez prematura en el tejido periocular."
+      },
+      {
+        "letter": "B",
+        "text": "Tensar firmemente la piel en sentido contrario con la mano libre y retirar la cera de forma paralela y a ras de la piel en dirección contraria al crecimiento del vello.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! La tensión de la piel inmoviliza el tejido celular subcutáneo, mientras que el tirón paralelo a ras de la piel minimiza el trauma mecánico y extrae el folículo limpiamente sin pellizcar la epidermis."
+      },
+      {
+        "letter": "C",
+        "text": "Retirar la cera lentamente y por etapas para que la clienta no sienta dolor durante el procedimiento.",
+        "isCorrect": false,
+        "feedback": "Retirar la cera de forma lenta fragmenta la banda, parte el vello a la mitad y aumenta exponencialmente la sensación dolorosa en la clienta."
+      },
+      {
+        "letter": "D",
+        "text": "Aplicar la cera muy caliente para que penetre más profundo en el folículo y retirarla sin estirar la piel.",
+        "isCorrect": false,
+        "feedback": "La cera caliente quema la fina piel periocular; además, no tensar la piel es la causa número uno de hematomas y desgarro tisular en cabina."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "BIOSEGURIDAD Y CONTROL DE ALERGIAS",
+    "reference": "Guía Maestra · Cap. 5.2 (Protocolo de Ejecución de la Prueba de Parche)",
+    "question": "¿Cuál es el protocolo estándar de aplicación, tiempo de contacto y monitoreo obligatorio de la Prueba de Parche (Patch Test) en clientes nuevos antes de usar Henna o Tintes?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Aplicar la mezcla en la propia ceja 10 minutos antes de comenzar el servicio y verificar si pica.",
+        "isCorrect": false,
+        "feedback": "Realizar la prueba en la ceja inmediatamente antes del servicio viola el protocolo: si la clienta reacciona, sufrirá inflamación facial y las reacciones tardías mediadas por células demoran hasta 48 horas en manifestarse."
+      },
+      {
+        "letter": "B",
+        "text": "Realizar la prueba entre 48 y 72 horas previas en antebrazo o zona retroauricular, dejar actuar la mezcla por 20 minutos, retirar con agua y monitorear la zona durante 48 horas.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El tiempo de contacto de 20 minutos permite la absorción mínima de los alérgenos potenciales (como la PPD) y la ventana de 48 a 72 horas cubre el periodo inmunológico de manifestación de la dermatitis por contacto."
+      },
+      {
+        "letter": "C",
+        "text": "Colocar una gota de activador puro detrás de la rodilla y retirar tras 2 horas de reposo.",
+        "isCorrect": false,
+        "feedback": "La prueba debe realizarse con la mezcla completa del producto a utilizar (pigmento + activador) y en zonas con características dérmicas similares a la piel periocular (antebrazo interno o detrás de la oreja)."
+      },
+      {
+        "letter": "D",
+        "text": "Omitir la prueba si la clienta asegura que nunca ha tenido alergia a tintes de cabello convencionales.",
+        "isCorrect": false,
+        "feedback": "La sensibilización a la PPD puede ser adquirida en cualquier momento de la vida; confiar en el testimonio verbal sin prueba física expone a la especialista a demandas legales graves."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "CORRECCIÓN Y PROTOCOLOS DE EMERGENCIA",
+    "reference": "Guía Maestra · Cap. 17.1 (Corrección de Cejas Hiper-Pigmentadas)",
+    "question": "Tras retirar la henna, la clienta manifiesta angustia porque percibe sus cejas excesivamente oscuras y marcadas. ¿Cuál es la conducta técnica inmediata y profesional que debe adoptar la especialista en cabina?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Frotar con fuerza la piel utilizando una gasa seca o piedra pómez facial para desgastar mecánicamente el estrato córneo.",
+        "isCorrect": false,
+        "feedback": "La fricción mecánica abrasiva lesiona la barrera cutánea, genera eritema severo, ardor y puede derivar en manchas postinflamatorias irreversibles."
+      },
+      {
+        "letter": "B",
+        "text": "Contener a la clienta con serenidad, aplicar champú de limpieza profunda o removedor de henna específico con ácidos frutales mediante movimientos suaves de dabbing y peinar con aceite nutritivo.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El removedor de henna con agentes quelantes o ácidos suaves emulsiona el exceso superficial de Lawsone en el estrato córneo sin agredir la piel, mientras que el aceite aporta luminosidad y suaviza visualmente el tono."
+      },
+      {
+        "letter": "C",
+        "text": "Aplicar decolorante capilar de 30 volúmenes sobre la ceja para degradar el color instantáneamente.",
+        "isCorrect": false,
+        "feedback": "El decolorante de alto volumen sobre vello recién tinturado con henna puede alterar el pigmento hacia tonos verdes indeseados y quemar la fibra capilar."
+      },
+      {
+        "letter": "D",
+        "text": "Indicar a la clienta que se lave la cara con cloro en su casa para rebajar el tono.",
+        "isCorrect": false,
+        "feedback": "El uso de químicos abrasivos domésticos es un atentado gravísimo contra la salud dermatológica de la clienta."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "QUÍMICA Y LAMINADO DE CEJAS",
+    "reference": "Guía Maestra · Cap. 15.5 (Tabla de Tiempos del Ondulador)",
+    "question": "Al iniciar un servicio de laminado de cejas, diagnosticas que la clienta posee vello muy fino, claro y químicamente sensibilizado por tintes previos. ¿Qué pauta técnica de aplicación debes seguir estrictamente?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Aplicar la Loción Onduladora (Paso 1) de 3 a 5 minutos como máximo y trabajar SIN film osmótico, monitoreando constantemente la maleabilidad del vello.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El vello fino o sensibilizado posee una cutícula muy delgada que absorbe el tioglicolato o cisteamina a gran velocidad. El uso de film aceleraría la reacción térmica y quemaría el vello en minutos."
+      },
+      {
+        "letter": "B",
+        "text": "Dejar el ondulador durante 12 a 14 minutos con film térmico para garantizar que la raíz no se baje.",
+        "isCorrect": false,
+        "feedback": "12 a 14 minutos con film es un tiempo exclusivo para vellos ultra rebeldes o gruesos; en vello fino provocará daño irreversible (efecto chicharrón)."
+      },
+      {
+        "letter": "C",
+        "text": "Aplicar calor directo con secador de pelo sobre el vello fino durante 10 minutos.",
+        "isCorrect": false,
+        "feedback": "El calor artificial directo sobre lociones reductoras alcalinas destruye la queratina y funde la fibra capilar."
+      },
+      {
+        "letter": "D",
+        "text": "Omitir el Paso 2 (Neutralizante) para evitar saturar el vello fino.",
+        "isCorrect": false,
+        "feedback": "Omitir el neutralizante deja los enlaces disulfuro rotos y el pH alcalino activo, provocando la desintegración progresiva del vello en los días posteriores."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "VISAGISMO Y MORFOLOGÍA FACIAL",
+    "reference": "Guía Maestra · Cap. 3.2 (Las 6 Estructuras Faciales Primarias)",
+    "question": "Una clienta presenta un rostro redondo (diámetro transversal y longitudinal similares, pómulos suaves y ausencia de ángulos óseos marcados). Según los cánones del visagismo, ¿cuál es el diseño de ceja que armoniza su estructura facial?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Una ceja redondeada en forma de arco de luna o semicírculo continuo sin ángulos.",
+        "isCorrect": false,
+        "feedback": "Una ceja circular repite y acentúa la redondez del rostro, haciendo que las mejillas luzcan más anchas y el rostro aún más esférico."
+      },
+      {
+        "letter": "B",
+        "text": "Una ceja angulada con punto de elevación (Ápex) alto y definido y cola recta, cuyas diagonales crean una ilusión óptica de alargamiento vertical.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! La regla de oro del visagismo establece compensar las formas: en rostros redondeados, las líneas angulosas y diagonales rompen la curvatura facial, estilizando visualmente el óvalo."
+      },
+      {
+        "letter": "C",
+        "text": "Una ceja extremadamente gruesa y horizontal que cruce la frente de lado a lado.",
+        "isCorrect": false,
+        "feedback": "Una ceja horizontal y gruesa en rostro redondo achata las proporciones y acorta visualmente el tercio superior."
+      },
+      {
+        "letter": "D",
+        "text": "Depilar por completo los inicios para juntar los ojos y alargar la nariz.",
+        "isCorrect": false,
+        "feedback": "Alterar drásticamente los inicios óseos rompe la proporción de los tercios faciales y desfigura la armonía natural de la mirada."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "EPILACIÓN CON HILO HINDÚ",
+    "reference": "Guía Maestra · Cap. 12 (Biomecánica y Física del Threading)",
+    "question": "¿Cómo actúa mecánicamente el lazo de hilo 100% algodón (Threading) para extraer los vellos de raíz con máxima definición y sin agredir la dermis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Corta los vellos a nivel de la superficie epidérmica mediante fricción cortante afilada como una cuchilla.",
+        "isCorrect": false,
+        "feedback": "El hilo hindú es una técnica de epilación (extracción folicular de raíz), no de depilación superficial; el hilo no corta, arranca."
+      },
+      {
+        "letter": "B",
+        "text": "El lazo entrelazado de 7 a 10 vueltas atrapa el vello desde la base folicular y lo extrae de raíz mediante tracción coordinada a contrapelo, respetando la piel intacta.",
+        "isCorrect": true,
+        "feedback": "¡Exacto! El entrelazado helicoidal del hilo atrapa incluso el vello más corto y el vellón imperceptible (lanugo) extrayéndolo desde la papila, sin levantar capas epidérmicas como lo hace la cera."
+      },
+      {
+        "letter": "C",
+        "text": "Se adhiere al vello mediante calor por fricción térmica derritiendo la queratina.",
+        "isCorrect": false,
+        "feedback": "El mecanismo es netamente mecánico y cinemático, no produce calor ni afecta térmicamente la queratina."
+      },
+      {
+        "letter": "D",
+        "text": "Requiere usar hilo de nylon o poliéster sintético elástico para que no se reviente.",
+        "isCorrect": false,
+        "feedback": "La técnica exige estrictamente hilo de algodón 100% antibacteriano; los hilos sintéticos o de nylon cortan la piel y queman por fricción el tejido."
+      }
+    ]
+  }
+]
